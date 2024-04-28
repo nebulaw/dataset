@@ -1,2 +1,13 @@
-Each directory contains novels and poems. The title line starts with `*`
-and follows with the title of the work. `-` means the work is untitled.
+
+Each directory contains works of different authors. And here are the
+rules how `.txt` files are formatted.
+
+Poems:
+- Titles starts with `*`
+- Untitled works are like `*-`
+
+Others:
+- Each line contains up to 90 characters.
+- Words are not broken by hyphens.
+- Paragraphs are separated by one line.
+
