@@ -11,3 +11,10 @@ Others:
 - Each line contains up to 90 characters.
 - Words are not broken by hyphens.
 - Paragraphs are separated by one line.
+
+> --------------------------- Info ---------------------------- <
+| Author     |  Item  |  Words  |  Unique Words  |  Characters  |
+| Galaktioni |    215 |  26216  |           8734 |       154777 |
+| D. Uznadze |      1 |  31621  |           6964 |       220250 |
+> ------------------------------------------------------------- <
+
