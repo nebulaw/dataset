@@ -5,9 +5,9 @@ rules how `.txt` files are formatted.
 Poems:
 - Titles starts with `*`
 - Untitled works are like `*-`
+- Publication, or created(`[year]`) date is placed after the work
 
 Others:
 - Each line contains up to 90 characters.
 - Words are not broken by hyphens.
 - Paragraphs are separated by one line.
-
