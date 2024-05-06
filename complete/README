@@ -6,6 +6,7 @@ Poems:
 - Titles starts with `*`
 - Untitled works are like `*-`
 - Publication, or created(`[year]`) date is placed after the work
+- Unknown dates = `[-]`
 
 Others:
 - Each line contains up to 90 characters.
