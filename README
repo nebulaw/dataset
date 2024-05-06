@@ -1,13 +1,7 @@
-Dataset
+Georgian Texts
 
-Here is the dataset for Georgian texts. At this point, it
-only contains words from the Bible, Psalms, and the knight
-in the Panther's Skin. It will be extended from time to time.
+The idea of this repository is to provide clean and organized data in Georgian language.
 
-> ----- Sizes ----- <
-bible.txt:    130335
-knight.txt:   12939
-random.txt:   314532
-psalms.txt:   5619
-> ----------------- <
+This repository contains Georgian author's works and does not have any particular purpose. The texts are well formatted to make tokenizing process easier if you are willing to use it in deep learning. Well, both `complete` and `distinct` sets contains README files for guides.
 
+Contributions are welcome.

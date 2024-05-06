@@ -5,7 +5,7 @@ rules how `.txt` files are formatted.
 Poems:
 - Titles starts with `*`
 - Untitled works are like `*-`
-- Publication, or created(`[year]`) date is placed after the work
+- Publication, or created(`[year]`) date is placed after each work
 - Unknown dates = `[-]`
 
 Others:
@@ -18,4 +18,3 @@ Others:
 | Galaktioni |    215 |  26216  |           8734 |       154777 |
 | D. Uznadze |      1 |  31621  |           6964 |       220250 |
 > ------------------------------------------------------------- <
-
